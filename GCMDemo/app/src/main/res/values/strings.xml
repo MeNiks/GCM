@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GCM Demo</string>
+    <string name="error_config">Some Error</string>
+</resources>
