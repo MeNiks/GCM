@@ -4,8 +4,9 @@ Find Project id from url
 Ex- https://console.developers.google.com/apis/credentials?project=api-project-119235637721311
 
 1) Use in Code for CommonUtilities.SENDER_ID
+CommonUtilities.SENDER_ID = 119235637721311
 
-2) Then register app in api keys 
+2) Then register app in api keys with sha1 and package name 
 
 3) Google Cloud Messaging API [ON this]
 
